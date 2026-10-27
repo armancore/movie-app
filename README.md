@@ -129,7 +129,7 @@ Fonts: **Playfair Display** (display) + **DM Sans** (body) + **DM Mono** (number
 - The app is fully client-side — no backend required
 - TMDB API is free for non-commercial use
 - Images are served from TMDB's CDN
-
+- Developed by: armancore
 ---
 
 ## 📄 License
